@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kusuma895
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack wed developement,data science
-- 📫 How to reach me ...scetar10@gmail.com
+- 📫 How to reach me ...arasavillikusuma756@gmail.com
 
 <!---
 kusuma895/kusuma895 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
